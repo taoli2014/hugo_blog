@@ -1,4 +1,4 @@
-baseURL: 'https://fast-tec.cn/'
+baseURL: 'https://taoli2014.github.io'
 languageCode: 'en-us'
 title: 'Magic box'
 theme: 'ananke'
@@ -16,5 +16,5 @@ params:
   recent_posts_number: 3
   ananke_socials:
   - name: github
-    url: https://github.com/taoli2014/taoli2014.github.io
+    url: https://github.com/taoli2014/hugo_blog
 

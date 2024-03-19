@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "All about me"
-featured-image: '/images/fast_lion.jpg'
 menu:
   main:
     weight: 1

@@ -2,7 +2,7 @@
 title: "Magic box"
 description: "Fascination and Daydream"
 cascade:
-  featured_image: 'images/test1.jpg'
+  featured_image: "images/featured-home.jpg"
 
 ---
 
