@@ -2,8 +2,6 @@
 title: '涨妈的微博'
 date: 2024-03-29
 description: "重点记录"
-params:
-    text_color: ""
 tags: ['stock']
 ---
 
