@@ -1,11 +1,10 @@
 +++
-title = "FICO"
-description = "FICO's blog"
+title = "FICO's blog"
 date = "2021-08-01T21:29:20+02:00"
 tags = ["fintech"]
-categories = ["programming"]
+categories = ["news"]
 banner = "img/banners/banner-4.jpg"
-authors = ["John Doe"]
+authors = ["Zoldi"]
 +++
 
 The single-layer NN for fraud.  

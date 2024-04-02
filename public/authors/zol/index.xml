@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zol on Magic Box</title>
+    <link>http://localhost:1313/authors/zol/</link>
+    <description>Recent content in Zol on Magic Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/zol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FICO</title>
+      <link>http://localhost:1313/blog/2021/fico/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2021/fico/</guid>
+      <description>The single-layer NN for fraud.&#xA;Zoldi</description>
+    </item>
+  </channel>
+</rss>

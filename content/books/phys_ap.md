@@ -1,8 +1,7 @@
 ---
-title : "Physics AP"
-description: "US free textbooks"
+title: "Physics AP"
 tags: ["open tax"]
-params:
-  text_color: ""
+categories: ["Book"]
 ---
+
 A series of free textbooks. Translated from English.
