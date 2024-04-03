@@ -14,3 +14,27 @@
 .box-simple {
     min-height: 230px;
 }
+
+.highlight pre {
+    background-color: #484949 !important;
+    border: none;
+  }
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    table-layout: auto;
+    color: black;
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  td, th {
+    border: 1px solid #2a7d8c;
+    padding: .1em .4em;
+    border-bottom: 1px solid #2a7d8c;
+  }
+  th {
+    background-color: #20616d;
+    color: white;
+    font-size: 18px;
+  }
