@@ -7,3 +7,9 @@ categories: ['news']
 ---
 
 ### Edge computing
+
+
+## Deep Neural Network
+- Multi-Layer Perceptrons (MLP)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)

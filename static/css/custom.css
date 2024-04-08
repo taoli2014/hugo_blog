@@ -38,3 +38,25 @@ table {
     color: white;
     font-size: 18px;
   }
+
+/* ToC - Author: Robbi Nespu */
+.toc {
+  border: .15rem solid #757575;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1em;
+  color: #757575;
+  font-size: 1.5rem;
+}
+.toc-header {
+  color: #242020;
+  font-size: 1.5rem;
+}
+#TableOfContents > ul {
+  list-style-type: none;
+  padding-left: 1em;
+}
+#TableOfContents > ul > li ul {
+  list-style-type: square;
+  padding-left: 1em;
+}

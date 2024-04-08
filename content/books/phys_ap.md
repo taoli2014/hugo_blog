@@ -4,6 +4,10 @@ tags: ["openstax"]
 categories: ["Book"]
 ---
 
+{{< toc >}}
+  
+  
+---
 The structure of [Physics AP](https://openstax.org/details/books/college-physics-ap-courses-2e) course from Openstax.
 
 ---
@@ -62,27 +66,6 @@ Simultaneity
 Time dilation
 : The phenomenon of time passing slower for an observer who is moving relative to another observer.
 
-This is an inline \(a^*=x-b^*\) equation.
-
-These are block equations:
-
-\[a^*=x-b^*\]
-
-\[ a^*=x-b^* \]
-
-\[
-a^*=x-b^*
-\]
-
-These are block equations using alternate delimiters:
-
-$$a^*=x-b^*$$
-
-$$ a^*=x-b^* $$
-
-$$
-a^*=x-b^*
-$$
 
 #### Quantum physics
 
