@@ -1,5 +1,4 @@
 /* your styles go here */
-/* Example site test */
 
 .box-image-text .image {
     min-height: 190px;
@@ -47,6 +46,9 @@ table {
   margin-bottom: 1em;
   color: #757575;
   font-size: 1.5rem;
+  position: sticky;
+	top: 10;
+	align-self: start;
 }
 .toc-header {
   color: #242020;
