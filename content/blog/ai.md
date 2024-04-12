@@ -4,9 +4,10 @@ date: 2024-04-01T01:54:40Z
 draft: false
 tags: ['tech']
 categories: ['news']
+weight: 1
 ---
 
-### Edge computing
+## Edge computing
 
 
 ## Deep Neural Network

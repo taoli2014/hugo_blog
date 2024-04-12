@@ -1,6 +1,6 @@
 baseURL = 'https://example.com/'
 relativeURLs = false
-theme = 'relearn'
+theme = 'hugo-theme-relearn'
 
 ######################### Menu ###################################
 [menu]
@@ -12,7 +12,7 @@ theme = 'relearn'
     url = '/categories'
 [[menu.shortcuts]]
     identifier = 'ds'
-    name = "<i class='fa-fw fab fa-github'></i> Hugo theme repo"
+    name = "<i class='fa-fw fab fa-github'></i> Relearn theme repo"
     url = 'https://github.com/McShelby/hugo-theme-relearn'
     weight = 10
 

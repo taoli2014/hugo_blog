@@ -4,6 +4,7 @@ date = "2021-08-01T21:29:20+02:00"
 tags = ["fintech"]
 categories = ["news"]
 authors = ["Zoldi"]
+weight = 2
 +++
 
 The single-layer <mark>NN</mark> for fraud. H<sub>2</sub>O.   
