@@ -2,6 +2,7 @@
 title = 'Phys_ap'
 date = 2024-04-09T08:34:11Z
 draft = false
+weight = 2
 +++
 
 The structure of [Physics AP](https://openstax.org/details/books/college-physics-ap-courses-2e) course from Openstax.
